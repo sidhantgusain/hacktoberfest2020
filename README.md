@@ -9,4 +9,4 @@ Go ahead!!
 
 Check the official site to learn more about the event [click here for the link](https://hacktoberfest.digitalocean.com)
 
-.
+
